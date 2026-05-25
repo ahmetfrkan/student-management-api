@@ -51,3 +51,4 @@ A backend REST API for managing students, teachers, lessons, and academic record
 ```
 
 6. Access Swagger UI at:
+http://localhost:8080/swagger-ui/index.html

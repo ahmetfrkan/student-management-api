@@ -42,6 +42,10 @@ A backend REST API for managing students, teachers, lessons, and academic record
 2. Create a PostgreSQL database
 
 3. Set the following environment variables:
+```
+   DB_PASSWORD=your_database_password
+   JWT_SECRET=your_jwt_secret_key
+```
 
 4. Update `src/main/resources/application.properties` with your database name and username
 
